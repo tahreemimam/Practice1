@@ -1,2 +1,3 @@
+second change
 Made some changes in feature1
 Second file in Git repository
