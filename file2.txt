@@ -1,2 +1,2 @@
 new content on feature2
-ne line
+new line
